@@ -63,6 +63,8 @@ CODE:-<br>
     }
 
 
+Output<br>
+![exp9](https://github.com/VandanGupte101727/CDS-experiment-9/blob/main/Screenshot%202024-08-24%20at%2011.09.32%20PM.png)<br>
 
 Conclusion:-<br>
 in this experiment we learnt the basics of pointers in cpp and how to create an array with it. <br>
